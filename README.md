@@ -1,2 +1,3 @@
 # Superstore-Sales-Analysis (PowerBI)
-![image](https://github.com/user-attachments/assets/12ebdc82-f58c-45f9-9822-9a32478465c7)
+![image](https://github.com/user-attachments/assets/5703b8a5-7416-4159-89ba-db05729f9314)
+
